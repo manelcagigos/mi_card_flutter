@@ -27,4 +27,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 
-[^1]: This was extracted from the github repository of the course, [Dicee github repository from londonappbrewery](https://github.com/londonappbrewery/dicee-flutter).
+[^1]: This was extracted from the github repository of the course, [MiCard github repository from londonappbrewery](https://github.com/londonappbrewery/mi_card_flutter).
